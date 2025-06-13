@@ -1,0 +1,12 @@
+{
+	"name": "Bombus Terrestris",
+	"references": [
+		"https://en.wikipedia.org/wiki/Bombus_terrestris"
+	],
+	"media": [
+		"cloudstorage.link/whatevr.jpg"
+	],
+	"features": {
+		"primary_color": "dzeltens"
+	}
+}
